@@ -1,6 +1,6 @@
 import React from "react";
 import Navbar from "./Navbar";
-import about from "../assets/image/about.png";
+import aboutImage from "/assets/image/about.png";
 import Footer from "./Footer";
 import Confused_carrer from "./Confused_carrer";
 function About() {
@@ -16,7 +16,7 @@ function About() {
             <span className="text-green-500">College 91</span> – because your
             future matters to us.
           </h1>
-          <img src={about} className="lg:h-96 sm:h-80 h-60" />
+          <img src={aboutImage} className="lg:h-96 sm:h-80 h-60" />
         </div>
         <div className="text-center mt-20">
           <h1 className="sm:text-4xl text-2xl sm:mx-0 mx-4 sm:text-center text-justify">
