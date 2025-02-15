@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "course": "B.Tech",
+    "fee": "INR 1.10 - 1.35 Lakhs (1st Year)",
+    "details": "12th PCM with a minimum of 50%"
+  },
+  {
+    "id": 2,
+    "course": "B.Pharma",
+    "fee": "INR 1.20 Lakhs (1st Year)",
+    "details": "10+2th PCM/PCB with a minimum of 50%"
+  },
+  {
+    "id": 3,
+    "course": "BCA",
+    "fee": "INR 95K (1st Year)",
+    "details": "10+2th with a minimum of 45%"
+  },
+  {
+    "id": 4,
+    "course": "BBA",
+    "fee": "INR 95K (1st Year)",
+    "details": "12th PCM with a minimum of 50%"
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "id": 1,
+    "name": "IIMT Group of College",
+    "details": "Greater Noida | Est.1994 | AKTU,Lucknow | NAAC Grade",
+    "collegeimg": "./src/assets/Image/iimt.png",
+    "collegelogo": "./src/assets/Image/iimtlogo.png",
+    "location": "Greater Noida",
+    "info1": "IIMT College Of Management, Greater Noida offers BBA, BCA, BJMC and B.com at UG level. Admission to all the courses are on the basis of candidates' previous qualifying examination. IIMT fees for B.Com is INR 1.76 Lacs.",
+    "info2": "What is the seat intake for the courses in IIMT? Number of seats for BBA and BCA is 240, BJMC is 120 and B.Com is 60.",
+    "info3": "Can I get admission in BCA with 50%? Yes, one can get admission with 50% in the qualifying examination which is an intermediate degree for taking admission in the BCA course.",
+    "info4": "How is the placement of IIMT?  During the placement drive, over 480 recruiters participated and successfully placed 1200+ students and some of the top recruiters were Planet Spark, Josh Technology Group, Travio, Aviva India, and many more. "
+  }
+]

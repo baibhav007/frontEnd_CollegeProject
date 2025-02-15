@@ -1,0 +1,141 @@
+[
+  {
+    "id": 1,
+    "name": "UI-UX",
+    "img": "./src/assets/Image/working.jpeg",
+    "duration": "2 Hrs",
+    "price": "Free",
+    "description": "UI/UX is compelete with duration of 5-months and give you a certificate.",
+    "classtype": "Recorded",
+    "videoquantity": "6 video",
+    "skillgain": "web page designing",
+    "rating": [
+      {
+        "id": 1,
+        "question": "",
+        "answer": ""
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "name": "C programming",
+    "img": "./src/assets/Image/working.jpeg",
+    "duration": "4 Hrs",
+    "price": "Free",
+    "description": "C programming is compelete with duration of 5-months and give you a certificate.",
+    "learnig": "Learn to Program:The Fundamentals",
+    "classtype": "Recorded",
+    "videoquantity": "6 video",
+    "skillgain": "C programming, Problem solving, Analytical thinking",
+    "learnigto": "The Fundamentals",
+    "alreadyregistered": "1000 already enrolled",
+    "rating": [
+      {
+        "id": 1,
+        "question": "Varible and Function",
+        "answer": "All the topics are explain"
+      },
+      {
+        "id": 2,
+        "question": "Varible and Function",
+        "answer": "All the topics are explain"
+      },
+      {
+        "id": 3,
+        "question": "Varible and Function",
+        "answer": "All the topics are explain"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Java Programming",
+    "img": "./src/assets/Image/working.jpeg",
+    "duration": "8 Hrs",
+    "price": "Free",
+    "description": "Java Programming is compelete with duration of 5-months and give you a certificate.",
+    "rating": [
+      {
+        "id": 1,
+        "question": "",
+        "answer": ""
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Web development",
+    "img": "./src/assets/Image/working.jpeg",
+    "duration": "6 Hrs",
+    "price": "Free",
+    "description": "Web development is compelete with duration of 5-months and give you a certificate.",
+    "rating": [
+      {
+        "id": 1,
+        "question": "",
+        "answer": ""
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "name": "Android Developement",
+    "img": "./src/assets/Image/working.jpeg",
+    "duration": "20 Hrs",
+    "price": "Free",
+    "description": "Android Developement is compelete with duration of 5-months and give you a certificate.",
+    "rating": [
+      {
+        "id": 1,
+        "question": "",
+        "answer": ""
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "name": "C++ Programming",
+    "img": "./src/assets/Image/working.jpeg",
+    "duration": "10 Hrs",
+    "price": "Free",
+    "description": "C++ Programming is compelete with duration of 5-months and give you a certificate.",
+    "rating": [
+      {
+        "id": 1,
+        "question": "",
+        "answer": ""
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "name": "Cloud Architure",
+    "img": "./src/assets/Image/working.jpeg",
+    "duration": "50 Hrs",
+    "price": "Free",
+    "description": "Cloud Architure is compelete with duration of 5-months and give you a certificate.",
+    "rating": [
+      {
+        "id": 1,
+        "question": "",
+        "answer": ""
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "name": "Full-stack Development",
+    "img": "./src/assets/Image/working.jpeg",
+    "duration": "72 Hrs",
+    "price": "Free",
+    "description": "Full-stack Development is compelete with duration of 5-months and give you a certificate.",
+    "rating": [
+      {
+        "id": 1,
+        "question": "",
+        "answer": ""
+      }
+    ]
+  }
+]
